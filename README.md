@@ -1,6 +1,6 @@
 # Give-Life-Prediction-Accuracy-of-Blood-Donations-with-Scikit--Learn-and-TensorFlow
 In this repository, I measured prediction accuracy of  Blood Donations in Taiwan(2007) with Scikit- Learn and TensorFlow libraries.
-I took the data from DataCamp's Give Life: Predict Blood Donations project with my premium account.(https://learn.datacamp.com/projects/646)
+
 
 # DATASET
 
