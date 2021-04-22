@@ -6,6 +6,8 @@ In this repository, I measured prediction accuracy of  Blood Donations in Taiwan
 
 Our dataset is from a mobile blood donation vehicle in Taiwan. The Blood Transfusion Service Center drives to different universities and collects blood as part of a blood drive. We want to measure prediction accuracy of this prediction : whether or not a donor will give blood the next time the vehicle comes to campus.
 
+Source of data is: https://www.datacamp.com/projects/646
+
 # SCIKIT LEARN
 
 In Scikit - Learn, I splitted the Training and Test Datasets by  train_test_split() method of from sklearn.model_selection.
